@@ -3,7 +3,7 @@
 
 ##  Dashboard
 
-<img width="1882" height="940" alt="SPC-Thickness" src="https://github.com/user-attachments/assets/ee41976f-9918-4795-b640-d7db14ef2af4" />
+<img width="1885" height="943" alt="SPC-Thickness (2)" src="https://github.com/user-attachments/assets/d1c4d2d1-e9aa-4818-a50f-1f1c4da7c464" />
 
 
 
