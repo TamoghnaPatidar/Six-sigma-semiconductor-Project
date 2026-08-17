@@ -121,3 +121,8 @@ Detect Abnormal Behavior
 Interpret Possible Cause
         ↓
 Recommend Corrective Action
+```
+
+## Tools used
+
+Python | NumPy | Pandas | Matplotlib | SciPy
