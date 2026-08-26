@@ -3,8 +3,7 @@
 
 ##  Dashboard
 
-<img width="1820" height="887" alt="SPC-Thickness" src="https://github.com/user-attachments/assets/5d09202f-5da6-42af-b0de-2d4d5cd096f0" />
-
+<img width="1880" height="932" alt="SPC-Thickness (2)" src="https://github.com/user-attachments/assets/c79f37e3-d91e-42da-9539-9cb4738022e1" />
 
 
 
@@ -36,7 +35,7 @@ The objective is to demonstrate how a engineer can use manufacturing data to **m
 
 ##  Recommendations
 
-Based on the SPC signals, a engineer could investigate:
+Based on the SPC signals, one could investigate:
 
 1. **Process parameter drift**  
    Check deposition temperature, chamber pressure, and other CVD parameters if a sustained shift in mean thickness is detected.
